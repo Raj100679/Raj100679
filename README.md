@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 💬 Ask me about **ReactJS, CSS and MongoDB**
+- 💬 Ask me about **ReactJS, C++ and MongoDB**
 
 - 📫 How to reach me **raj.kasat10@gmail.com**
 
